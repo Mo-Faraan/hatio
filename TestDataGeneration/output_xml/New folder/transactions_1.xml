@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RAWFile ouId="HD51">
+  <transactions>
+    <msgId>YMVY7ZSDTSTAH0EC09PNBXUITUOZTL90SF</msgId>
+    <refId>YMVY7ZSDTSTAH0EC09PNBXUITUOZTL90SF</refId>
+    <origRefId>NA</origRefId>
+    <mti>FORCE PAYMENT ARBITRATION</mti>
+    <txnReferenceId>LU78HQKSCUHP7C5ZVU9J</txnReferenceId>
+    <txnType>PAYMENT</txnType>
+    <txnDate>2025-06-27</txnDate>
+    <customerOUId>PP22</customerOUId>
+    <billerOUId>JK21</billerOUId>
+    <responseCode>000</responseCode>
+    <txnCurrencyCode>356</txnCurrencyCode>
+    <txnAmount>364031</txnAmount>
+    <customerConvenienceFee>0.0000</customerConvenienceFee>
+    <billerFee>-350.3025</billerFee>
+    <billerOUSwitchingFee>-13.6365</billerOUSwitchingFee>
+    <penaltyFee>0.0000</penaltyFee>
+    <clearingTimestamp>2025-06-27T12:33:12+05:30</clearingTimestamp>
+    <paymentChannel>WEB</paymentChannel>
+    <paymentMode>UPI</paymentMode>
+    <billerOUCountMonth>12</billerOUCountMonth>
+    <billerId>AYEF00000NATZB</billerId>
+    <billerCategory>Loan Repayment</billerCategory>
+    <splitPay>false</splitPay>
+    <reversal>false</reversal>
+    <decline>false</decline>
+    <casProcessed>true</casProcessed>
+    <settlementCycleId>0062025062700</settlementCycleId>
+    <customerConvenienceFeeCGST>0.0000</customerConvenienceFeeCGST>
+    <customerConvenienceFeeIGST>0.0000</customerConvenienceFeeIGST>
+    <customerConvenienceFeeSUTGST>0.0000</customerConvenienceFeeSUTGST>
+    <billerFeeCGST>0.0000</billerFeeCGST>
+    <billerFeeIGST>-30.0498</billerFeeIGST>
+    <billerFeeSUTGST>0.0000</billerFeeSUTGST>
+    <billerOUSwitchingFeeCGST>-4.9014</billerOUSwitchingFeeCGST>
+    <billerOUSwitchingFeeIGST>0.0000</billerOUSwitchingFeeIGST>
+    <billerOUSwitchingFeeSUTGST>-1.3144</billerOUSwitchingFeeSUTGST>
+    <penaltyFeeCGST>0.0000</penaltyFeeCGST>
+    <penaltyFeeIGST>0.0000</penaltyFeeIGST>
+    <penaltyFeeSUTGST>0.0000</penaltyFeeSUTGST>
+    <offUsPay>true</offUsPay>
+    <remarks>NA</remarks>
+    </transactions>
+  <transactions>
+    <msgId>DYV2W872TJMPCB3KDZ8EAG0X8GH6NDIB4Y</msgId>
+    <refId>DYV2W872TJMPCB3KDZ8EAG0X8GH6NDIB4Y</refId>
+    <origRefId>NA</origRefId>
+    <mti>FORCE PAYMENT PRE-ARBITRATION</mti>
+    <txnReferenceId>H2OZI13ZZD4QA82WI1SU</txnReferenceId>
+    <txnType>PAYMENT</txnType>
+    <txnDate>2025-06-27</txnDate>
+    <customerOUId>PP33</customerOUId>
+    <billerOUId>JK21</billerOUId>
+    <responseCode>000</responseCode>
+    <txnCurrencyCode>356</txnCurrencyCode>
+    <txnAmount>149957</txnAmount>
+    <customerConvenienceFee>0.0000</customerConvenienceFee>
+    <billerFee>-329.9780</billerFee>
+    <billerOUSwitchingFee>-5.7900</billerOUSwitchingFee>
+    <penaltyFee>0.0000</penaltyFee>
+    <clearingTimestamp>2025-06-27T12:33:12+05:30</clearingTimestamp>
+    <paymentChannel>WEB</paymentChannel>
+    <paymentMode>Internet Banking</paymentMode>
+    <billerOUCountMonth>12</billerOUCountMonth>
+    <billerId>COMM00000TELQ2</billerId>
+    <billerCategory>Loan Repayment</billerCategory>
+    <splitPay>false</splitPay>
+    <reversal>false</reversal>
+    <decline>false</decline>
+    <casProcessed>true</casProcessed>
+    <settlementCycleId>0062025062700</settlementCycleId>
+    <customerConvenienceFeeCGST>0.0000</customerConvenienceFeeCGST>
+    <customerConvenienceFeeIGST>0.0000</customerConvenienceFeeIGST>
+    <customerConvenienceFeeSUTGST>0.0000</customerConvenienceFeeSUTGST>
+    <billerFeeCGST>0.0000</billerFeeCGST>
+    <billerFeeIGST>-17.0272</billerFeeIGST>
+    <billerFeeSUTGST>0.0000</billerFeeSUTGST>
+    <billerOUSwitchingFeeCGST>-4.1326</billerOUSwitchingFeeCGST>
+    <billerOUSwitchingFeeIGST>0.0000</billerOUSwitchingFeeIGST>
+    <billerOUSwitchingFeeSUTGST>-4.4346</billerOUSwitchingFeeSUTGST>
+    <penaltyFeeCGST>0.0000</penaltyFeeCGST>
+    <penaltyFeeIGST>0.0000</penaltyFeeIGST>
+    <penaltyFeeSUTGST>0.0000</penaltyFeeSUTGST>
+    <offUsPay>true</offUsPay>
+    <remarks>NA</remarks>
+    </transactions>
+  <transactions>
+    <msgId>TL4YK9LXK8U591CG2G6JZ9UINFD7O6U3PR</msgId>
+    <refId>TL4YK9LXK8U591CG2G6JZ9UINFD7O6U3PR</refId>
+    <origRefId>NA</origRefId>
+    <mti>REFUND FULL GOOD FAITH</mti>
+    <txnReferenceId>H2OZI13ZZD4QA82WI1SU</txnReferenceId>
+    <txnType>PAYMENT</txnType>
+    <txnDate>2025-06-27</txnDate>
+    <customerOUId>PP22</customerOUId>
+    <billerOUId>JK21</billerOUId>
+    <responseCode>000</responseCode>
+    <txnCurrencyCode>356</txnCurrencyCode>
+    <txnAmount>-149957</txnAmount>
+    <customerConvenienceFee>0.0000</customerConvenienceFee>
+    <billerFee>-275.2335</billerFee>
+    <billerOUSwitchingFee>-4.8654</billerOUSwitchingFee>
+    <penaltyFee>0.0000</penaltyFee>
+    <clearingTimestamp>2025-06-27T12:33:12+05:30</clearingTimestamp>
+    <paymentChannel>CARD</paymentChannel>
+    <paymentMode>Credit Card</paymentMode>
+    <billerOUCountMonth>12</billerOUCountMonth>
+    <billerId>MUNI00000CHANI</billerId>
+    <billerCategory>Loan Repayment</billerCategory>
+    <splitPay>false</splitPay>
+    <reversal>false</reversal>
+    <decline>false</decline>
+    <casProcessed>true</casProcessed>
+    <settlementCycleId>0062025062700</settlementCycleId>
+    <customerConvenienceFeeCGST>0.0000</customerConvenienceFeeCGST>
+    <customerConvenienceFeeIGST>0.0000</customerConvenienceFeeIGST>
+    <customerConvenienceFeeSUTGST>0.0000</customerConvenienceFeeSUTGST>
+    <billerFeeCGST>0.0000</billerFeeCGST>
+    <billerFeeIGST>-27.9576</billerFeeIGST>
+    <billerFeeSUTGST>0.0000</billerFeeSUTGST>
+    <billerOUSwitchingFeeCGST>-3.1143</billerOUSwitchingFeeCGST>
+    <billerOUSwitchingFeeIGST>0.0000</billerOUSwitchingFeeIGST>
+    <billerOUSwitchingFeeSUTGST>-2.8668</billerOUSwitchingFeeSUTGST>
+    <penaltyFeeCGST>0.0000</penaltyFeeCGST>
+    <penaltyFeeIGST>0.0000</penaltyFeeIGST>
+    <penaltyFeeSUTGST>0.0000</penaltyFeeSUTGST>
+    <offUsPay>true</offUsPay>
+    <remarks>NA</remarks>
+    </transactions>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" />
+      <Reference URI="">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+          </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+        <DigestValue>x1eQX0UhXo3I2297x2LUIrC5ufElD4eWviOa4W+ahdA=</DigestValue>
+        </Reference>
+      </SignedInfo>
+    <SignatureValue>SEP/Z813RbxhHg3MGGQAm/BxGw9gBrgXY12I2zk+Pns5MgMtzIwzzM6LAF+BJCj18GWhP5azyz2q</SignatureValue>
+    </Signature>
+  </RAWFile>
