@@ -1,0 +1,18 @@
+[Unit]
+Description=OpenVPN client with Python MFA Automation
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+EnvironmentFile=/etc/openvpn/mfa/envs/%i.env
+Environment=CONFIG=/etc/openvpn/mfa/client/%i.conf CREDFILE=/etc/openvpn/mfa/credentials/%i.txt
+ExecStart=/usr/bin/python3 /usr/local/bin/OpenVpnMfa.py 
+ExecStopPost=rm -f /etc/openvpn/mfa/credentials/%i.txt
+Restart=on-failure
+RestartSec=5s
+
+[Install]
+WantedBy=multi-user.target
+
+
